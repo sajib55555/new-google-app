@@ -1,0 +1,9 @@
+{
+  "name": "NutriSnap-5",
+  "description": "AI-powered nutrition tracking app. Scan your food and get instant health insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
